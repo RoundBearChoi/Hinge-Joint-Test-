@@ -160,10 +160,10 @@ HingeJoint:
   m_Spring:
     spring: 0
     damper: 0
-    targetPosition: 90
+    targetPosition: 0
   m_UseMotor: 1
   m_Motor:
-    targetVelocity: 100
+    targetVelocity: -100
     force: 3000
     freeSpin: 0
   m_UseLimits: 1
